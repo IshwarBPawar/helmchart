@@ -3,12 +3,12 @@ entries:
   flaskmysql:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2026-02-10T06:47:14.806431221Z"
+    created: "2026-02-10T07:03:56.608429879Z"
     description: A Helm chart for Kubernetes
     digest: dd3f8ebd7f7b09a886e8c03418f7acd0425369c799ca468c846659879212c84e
     name: flaskmysql
     type: application
     urls:
-    - https://github.com/IshwarBPawar/helmchart/flaskmysql-0.1.0.tgz
+    - https://ishwarbpawar.github.io/helmchart/flaskmysql-0.1.0.tgz
     version: 0.1.0
-generated: "2026-02-10T06:47:14.804374392Z"
+generated: "2026-02-10T07:03:56.607375603Z"
